@@ -1,0 +1,18 @@
+{
+  "name": "tree-shake-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "0.52.1",
+    "rollup-analyzer-plugin": "1.1.1",
+    "rollup-plugin-node-resolve": "3.0.0",
+    "three": "0.88.0"
+  }
+}
