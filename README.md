@@ -17,7 +17,7 @@ To take advantage of tree shaking you have to include a glsl loader for rollup. 
 
 Furthermore you have to use the following syntax when importing a Three.js file
 
-```
+```javascript
   import {PerspectiveCamera} from 'three/src/cameras/PerspectiveCamera';
   import {Scene} from 'three/src/scenes/scene';
   import {Mesh} from 'three/src/objects/Mesh';
@@ -28,6 +28,6 @@ Furthermore you have to use the following syntax when importing a Three.js file
 
 The following syntax will NOT work:
 
-```
+```javascript
   import { Camera, Scene, Mesh, BoxGeometry, MeshNormalMaterial, WebGLRenderer } from 'three';
 ```
