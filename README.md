@@ -31,3 +31,5 @@ The following syntax will NOT work:
 ```javascript
   import { Camera, Scene, Mesh, BoxGeometry, MeshNormalMaterial, WebGLRenderer } from 'three';
 ```
+
+I added a link to this repo in the following thread: https://github.com/mrdoob/three.js/issues/9403
