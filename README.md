@@ -33,3 +33,5 @@ The following syntax will NOT work:
 ```
 
 I added a link to this repo in the following thread: https://github.com/mrdoob/three.js/issues/9403
+
+Also there is an interesting discussion on https://discourse.threejs.org/t/tree-shaking-three-js/1349
